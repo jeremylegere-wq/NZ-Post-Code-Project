@@ -18,7 +18,6 @@ An Excel dataset of New Zealand post codes, one row per locality, with coordinat
 ## Source and licensing
 
 The data was taken from <https://www.matthewproctor.com/newzealand_postcodes> in 2025 for a Power BI dashboard.
-It belongs to its original source: check that site's terms before reusing it. The MIT licence in this repository
-covers only this repository's own text, not the underlying data.
+It belongs to its original source, so this repository carries no licence of its own. Check that site's terms before reusing the data.
 
 Tip: when loading the file, keep Postcode as text so codes such as `0110` don't lose their leading zero.
